@@ -2,7 +2,7 @@ import React from "react";
 import Btn from "./Btn";
 import Heading from "./Foreground_content_components/Heading";
 import SupportingText from "./Foreground_content_components/SupportingText";
-import styles from "../Top_Hero_components/Foreground.module.css";
+import styles from "./foreground.module.css";
 
 const ForegroundContent = () => {
   return (

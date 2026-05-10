@@ -1,5 +1,5 @@
 import React from "react";
-import Top_Hero from "./Component/2-Hero/Sections/Top_Hero";
+import Top_Hero from "./Component/Hero/Sections/Top_Hero";
 import Footer from "./Component/3-Footer/Footer";
 import SmoothScroll from "./Component/SmoothScroll";
 import ContentFlow from "./Component/2.0 - Contents/ContentFlow";
